@@ -1,0 +1,5 @@
+OuterPos: 1 1 640 360 (Units: pixels)
+Marker: 10.0, (penta) 15.0
+Axis: 5 ticks
+Fontsize: 22.0
+Position: 64 58 554.75 291
