@@ -1,3 +1,5 @@
+# User Guidelines
+
 **ADMM_experiment.py, ADMM_temp.py, ADMM_test.py, ADMM.py**: experiments for Stochastic ADMM.
 
 **curve.py**: draw the curves in Python (note that we replot the figs in Matlab in the paper).
