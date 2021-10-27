@@ -13,7 +13,7 @@
 * Geometrics Median
 * Median 
 * RSA
-* Stochastic ADMM (the proposal)
+* Stochastic ADMM (Our Method)
 
 ## Guidebook
 * `all_except_femnist`: this folder is for all experiments except the femnist dataset (Figure 1-7 in the paper).
