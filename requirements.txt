@@ -1,0 +1,7 @@
+numpy==1.16.4
+scipy
+tensorflow==2.4.0
+Pillow
+matplotlib
+jupyter
+pandas
