@@ -14,3 +14,8 @@
 * Median 
 * RSA
 * Stochastic ADMM (the proposal)
+
+## Guidebook
+* `all_except_femnist`: this folder is for all experiments except the femnist dataset (Figure 1-7 in the paper).
+* `noniid-on-femnist`: this folder is for the experiments on femnist dataset (Figure 8 in the paper).
+* `replot_in_matlab`: this folder is for replotting the experimental results in Matlab to consistently draw the figures in the paper.
