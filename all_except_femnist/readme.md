@@ -4,7 +4,7 @@
 
 **curve.py**: draw the curves in Python (note that we replot the figs in Matlab in the paper).
 
-**deal_with_data.py, load_mnist.py, npy2mat.py**: data processing files.
+**deal_with_data.py, load_mnist.py, load_mnist.pyc, npy2mat.py**: data processing files.
 
 **GD.py, SGD_mean.py, SGD.py**: experiments for vanilla gradient methods.
 
@@ -14,6 +14,6 @@
 
 **temp.py, test.py**: testing codes.
 
-**./data folder**: containing mnist datasets
+**./data**: folder containing mnist datasets.
 
 Note: ./data/mnist/train_img.npy is large (47MB) and omitted in the repository, which can be downloaded from the website http://yann.lecun.com/exdb/mnist/.
